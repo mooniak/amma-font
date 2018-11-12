@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taOo" format="2">
+	<advance width="907"/>
+	<unicode hex="0B93"/>
+	<outline>
+		<component base="sinO"/>
+		<component base="sinHalant" xOffset="973" yOffset="42"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-20 19:37:35 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinAe" format="2">
+	<advance width="1291"/>
+	<unicode hex="0D87"/>
+	<outline>
+		<component base="sinA"/>
+		<component base="sinMatraAe" xOffset="975"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-21 06:00:15 +0000</string>
+		</dict>
+	</lib>
+</glyph>

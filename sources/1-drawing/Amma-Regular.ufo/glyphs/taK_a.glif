@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taKa" format="2">
+	<advance width="1072"/>
+	<unicode hex="0B95"/>
+	<outline>
+		<component base="sinKa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-06 15:32:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>
