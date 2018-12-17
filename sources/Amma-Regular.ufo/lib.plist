@@ -16,6 +16,10 @@
 		<string>/a-sinhala/aa-sinhala/ai-sinhala/au-sinhala/e-sinhala/ee-sinhala/fa-sinhala/i-sinhala/ii-sinhala/ja-sinhala/ka-sinhala/la-sinhala/ma-sinhala/o-sinhala/oo-sinhala/pa-sinhala/ra-sinhala/sha-sinhala/ssa-sinhala/ta-sinhala/u-sinhala/uu-sinhala/va-sinhala/ya-sinhala/ya-tamil/aaMatra-sinhala/aaeMatra-sinhala/aeMatra-sinhala/aiMatra-sinhala/anusvaraya-sinhala ./auMatra-sinhala/eMatra-sinhala/eeMatra-sinhala/iMatra-sinhala/iiMatra-sinhala/lVocalicMatra-sinhala/oMatra-sinhala/ooMatra-sinhala/rVocalicMatra-sinhala/uMatra-sinhala/uuMatra-sinhala/virama-sinhala/visargaya-sinhala</string>
 		<string>/ha-tamil</string>
 		<string>/ha-sinhala</string>
+		<string>/ooMatra-tamil</string>
+		<string>/eeMatra-tamil/aiMatra-tamil/oMatra-tamil/ooMatra-tamil/lVocalicMatra-sinhala/auMatra-tamil</string>
+		<string>/oMatra-sinhala/ooMatra-sinhala</string>
+		<string>/virama-sinhala/eeMatra-sinhala</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
