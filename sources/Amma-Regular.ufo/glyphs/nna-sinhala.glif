@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nna-sinhala" format="2">
-	<unicode hex="0DAB"/>
 	<advance width="1040"/>
+	<unicode hex="0DAB"/>
 	<outline>
 		<component base="na-sinhala"/>
 	</outline>

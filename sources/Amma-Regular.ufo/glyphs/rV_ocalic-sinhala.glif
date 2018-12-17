@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rVocalic-sinhala" format="2">
-	<unicode hex="0D8D"/>
 	<advance width="1290"/>
+	<unicode hex="0D8D"/>
 	<outline>
 		<contour>
 			<point x="272" y="470" type="curve"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="2">
-	<unicode hex="F6C3"/>
 	<advance width="188"/>
+	<unicode hex="F6C3"/>
 	<outline>
 		<contour>
 			<point x="70" y="-218" type="line"/>

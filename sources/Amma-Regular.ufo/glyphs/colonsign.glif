@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colonsign" format="2">
-	<unicode hex="20A1"/>
 	<advance width="577"/>
+	<unicode hex="20A1"/>
 	<outline>
 		<contour>
 			<point x="549" y="127" type="line"/>

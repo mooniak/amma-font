@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tta-sinhala" format="2">
-	<unicode hex="0DA7"/>
 	<advance width="940"/>
+	<unicode hex="0DA7"/>
 	<outline>
 		<contour>
 			<point x="555" y="837" type="line"/>

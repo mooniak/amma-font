@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dda-sinhala" format="2">
-	<unicode hex="0DA9"/>
 	<advance width="965"/>
+	<unicode hex="0DA9"/>
 	<outline>
 		<contour>
 			<point x="294" y="488" type="line"/>

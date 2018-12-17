@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ttha-sinhala" format="2">
-	<unicode hex="0DA8"/>
 	<advance width="940"/>
+	<unicode hex="0DA8"/>
 	<outline>
 		<component base="tta-sinhala"/>
 	</outline>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="om-tamil" format="2">
-	<unicode hex="0BD0"/>
 	<advance width="1023"/>
+	<unicode hex="0BD0"/>
 	<outline>
 		<contour>
 			<point x="330" y="22" type="curve" smooth="yes"/>
