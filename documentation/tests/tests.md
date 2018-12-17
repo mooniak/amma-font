@@ -1,41 +1,42 @@
-வாகனம	(moodi)	මූඩිය	Vehicle
-மூடி	(namam)	නාමය	Lid
-நாமம்	(utsavam)	උත්සවය	Name
-உற்சவம்	(penai)	පෑන	Function
-பேனை	(measai)	ෙම්සය	Pen
-மேசை	(singham)	සිංහයා	Table
-சிங்கம்	(paruppu)	පරිප්පු	Lion
-பருப்பு	(pathirigai)	පත්තරය	Dhal
-பத்திரிகை	(kannadi)	කණ්ණාඩිය	Paper
-கண்ணாடி	(amma)	අම්මා	Glass
-அம்மா	(Kovil)	ෙකෝවිල	Mother
-கோயில்	(kadai)	කඩය	Temple
-கடை	(Kudai)	කුඩය	Shop
-குடை	(nari)	නරියා	Umbrella
-நரி	(Vayu)	වායුව	Fox
-வாயூ	(annaci)	අන්නාසි	Wind
-அண்ணாசி	(thoppi)	ෙතොප්පිය	Pineapple
-தொப்பி	(satham)	ශබ්දය	Cap
-சத்தம்	(nadagam)	නාඩගම	Sound
-நாடகம்	(vaithiyar)	ෛවද්යවරයා	Drama
-வைத்தியர	(visam)	විස	Doctor
-விஷம்	(sarppam)	සර්පයා	Poison
-சர்ப்பம்	(boomi)	භූමිය	Snake
-பூமி	(Thakkali)	තක්කාලි	Earth
-தக்காளி	(suwasam)	ස්ව ාසය	Tomato
-சுவாசம்	(natham)	නාදය	Breath
-நாதம்	(swami)	ස්ව ාමි	Sound
-சுவாமி	(aagayam)	ආකාසය	My lord
-ஆகாயம்	(aathayam)	ආදායම්	Sky
-ஆதாயம்	(appam)	ආප්ප	Income
-அப்பம்	(anartham)	අනර්ථය	Hoppers
-அனர்த்தம்	(nagaram)	නගරය	Danger
-நகரம்	(sithiram)	චිත්රය	Town
-சித்திரம்	(mandapam)	මණ්ඩපය	Paintings
-மண்டபம்	(aabaranam)	ආභරණ	Hall
-ஆபரணம்	(idiyappam)	ඉදිආප්ප	Ornaments
-இடியப்பம்	(Thalam)	තාලය	String hoppers
-தாளம்	(measai)	ෙම්සය	Beat
-மேசை	(koodai)	කූඩය	Table
-கூடை	(kal)	ගල	Net
-கல்			Stone
+கோப்பை (kooppai) කෝප්පය Cup
+வாகனம ( Vaganam) වාහනය Vehicle
+மூடி (moodi) මූඩිය Lid
+நாமம் ( namam) නාමය name
+உற்சவம் ( utsavam) උත්සවය function
+பேனை (penai) පෑන pen
+மேசை (measai) ෙම්සය table
+சிங்கம் ( singham) සිංහයා lion
+பருப்பு (paruppu) පරිප්පු dhal
+பத்திரிகை (pathirigai) පත්තරය paper
+கண்ணாடி (kannadi) කණ්ණාඩිය glass
+அம்மா (amma) අම්මා mother
+கோயில் (Kovil) ෙකෝවිල temple
+கடை(kadai) කඩය shop
+குடை(Kudai) කුඩය umbrella
+நரி (nari) නරියා fox
+வாயூ (Vayu) වායුව wind
+அண்ணாசி (annaci) අන්නාසි pineapple
+தொப்பி (thoppi) ෙතොප්පිය Cap
+சத்தம்( satham) ශබ්දය sound
+நாடகம் ( nadagam) නාඩගම drama
+வைத்தியர ( vaithiyar) ෛවද්යවරයා doctor
+விஷம் ( visam) විස poison
+சர்ப்பம் ( sarppam) සර්පයා snake
+பூமி (boomi) භූමිය earth
+தக்காளி (Thakkali) තක්කාලි Tomato
+சுவாசம் ( suwasam) ස්ව ාසය breath
+நாதம் ( natham) නාදය sound
+சுவாமி (swami) ස්ව ාමි my lord
+ஆகாயம் ( aagayam) ආකාසය sky
+ஆதாயம் ( aathayam) ආදායම් income
+அப்பம் ( appam) ආප්ප Hoppers
+அனர்த்தம் ( anartham) අනර්ථය danger
+நகரம் ( nagaram) නගරය town
+சித்திரம் ( sithiram) චිත්රය paintings
+மண்டபம் ( mandapam) මණ්ඩපය hall
+ஆபரணம் ( aabaranam) ආභරණ ornaments
+இடியப்பம் (idiyappam) ඉදිආප්ප string hoppers
+தாளம் ( Thalam) තාලය beat
+மேசை (measai) ෙම්සය table
+கூடை (koodai) කූඩය net
+கல் ( kal) ගල් stone

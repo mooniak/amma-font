@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="2">
+	<unicode hex="02C9"/>
+	<advance width="421"/>
+	<outline>
+		<contour>
+			<point x="59" y="659" type="line"/>
+			<point x="59" y="731" type="line"/>
+			<point x="362" y="731" type="line"/>
+			<point x="362" y="659" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-20 19:37:35 +0000</string>
+		</dict>
+	</lib>
+</glyph>

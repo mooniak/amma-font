@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+	<unicode hex="F6C3"/>
+	<advance width="188"/>
+	<outline>
+		<contour>
+			<point x="70" y="-218" type="line"/>
+			<point x="93" y="-139" type="line"/>
+			<point x="60" y="-139" type="line"/>
+			<point x="60" y="-49" type="line"/>
+			<point x="158" y="-49" type="line"/>
+			<point x="158" y="-139" type="line"/>
+			<point x="122" y="-218" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-20 19:37:35 +0000</string>
+		</dict>
+	</lib>
+</glyph>

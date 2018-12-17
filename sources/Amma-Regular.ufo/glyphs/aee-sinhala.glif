@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aee-sinhala" format="2">
+	<unicode hex="0D88"/>
+	<advance width="1297"/>
+	<outline>
+		<component base="a-sinhala"/>
+		<component base="aaeMatra-sinhala" xOffset="975"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-12-15 20:55:33 +0000</string>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>
