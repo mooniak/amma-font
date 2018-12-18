@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ssa-sinhala" format="2">
-	<advance width="1260"/>
 	<unicode hex="0DC2"/>
+	<advance width="1260"/>
 	<outline>
 		<contour>
 			<point x="1073" y="412" type="line"/>

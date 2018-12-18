@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pa-sinhala" format="2">
-	<advance width="1035"/>
 	<unicode hex="0DB4"/>
+	<advance width="1035"/>
 	<outline>
 		<contour>
 			<point x="197" y="649" type="curve" smooth="yes"/>

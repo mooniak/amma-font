@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gha-sinhala" format="2">
-	<advance width="1071"/>
 	<unicode hex="0D9D"/>
+	<advance width="1071"/>
 	<outline>
 		<component base="ga-sinhala"/>
 	</outline>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnna-tamil" format="2">
-	<advance width="993"/>
 	<unicode hex="0BA9"/>
+	<advance width="993"/>
 	<outline>
 		<contour>
 			<point x="187" y="135" type="curve" smooth="yes"/>

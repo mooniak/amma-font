@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="day-tamil" format="2">
-	<advance width="910"/>
 	<unicode hex="0BF3"/>
+	<advance width="910"/>
 	<outline>
 		<contour>
 			<point x="200" y="135" type="curve" smooth="yes"/>

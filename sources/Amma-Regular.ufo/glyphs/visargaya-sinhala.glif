@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="visargaya-sinhala" format="2">
-	<advance width="325"/>
 	<unicode hex="0D83"/>
+	<advance width="325"/>
 	<outline>
 		<contour>
 			<point x="31" y="430" type="curve" smooth="yes"/>

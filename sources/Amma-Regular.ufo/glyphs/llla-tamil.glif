@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="llla-tamil" format="2">
-	<advance width="824"/>
 	<unicode hex="0BB4"/>
+	<advance width="824"/>
 	<outline>
 		<contour>
 			<point x="522" y="455" type="curve" smooth="yes"/>

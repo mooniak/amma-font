@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="llVocalicMatra-sinhala" format="2">
-	<advance width="541"/>
 	<unicode hex="0DF3"/>
+	<advance width="541"/>
 	<outline>
 		<contour>
 			<point x="189" y="330" type="curve" smooth="yes"/>

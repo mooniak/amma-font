@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rrVocalic-sinhala" format="2">
-	<advance width="962"/>
 	<unicode hex="0D8E"/>
+	<advance width="962"/>
 	<outline>
 		<component base="rrVocalicMatra-sinhala"/>
 	</outline>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ma-sinhala" format="2">
-	<advance width="1218"/>
 	<unicode hex="0DB8"/>
+	<advance width="1218"/>
 	<outline>
 		<contour>
 			<point x="748" y="-61" type="curve" smooth="yes"/>

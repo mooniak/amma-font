@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nga-tamil" format="2">
-	<advance width="897"/>
 	<unicode hex="0B99"/>
+	<advance width="897"/>
 	<outline>
 		<contour>
 			<point x="547" y="155" type="curve" smooth="yes"/>

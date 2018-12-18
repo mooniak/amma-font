@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ta-tamil" format="2">
-	<advance width="1129"/>
 	<unicode hex="0BA4"/>
+	<advance width="1129"/>
 	<outline>
 		<component base="ta-sinhala"/>
 	</outline>

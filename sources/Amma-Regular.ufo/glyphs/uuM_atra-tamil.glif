@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uuMatra-tamil" format="2">
-	<advance width="776"/>
 	<unicode hex="0BC2"/>
+	<advance width="776"/>
 	<outline>
 		<contour>
 			<point x="345" y="246" type="curve" smooth="yes"/>

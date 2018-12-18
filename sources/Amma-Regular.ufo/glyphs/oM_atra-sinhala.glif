@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oMatra-sinhala" format="2">
-	<advance width="1345"/>
 	<unicode hex="0DDC"/>
+	<advance width="1345"/>
 	<outline>
 		<component base="eMatra-sinhala"/>
 		<component base="aaMatra-sinhala" xOffset="821"/>

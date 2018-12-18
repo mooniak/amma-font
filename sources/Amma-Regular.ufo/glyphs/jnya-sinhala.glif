@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jnya-sinhala" format="2">
-	<advance width="1198"/>
 	<unicode hex="0DA5"/>
+	<advance width="1198"/>
 	<outline>
 		<contour>
 			<point x="478" y="62" type="curve" smooth="yes"/>

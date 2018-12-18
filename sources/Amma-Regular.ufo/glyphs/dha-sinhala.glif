@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dha-sinhala" format="2">
-	<advance width="590"/>
 	<unicode hex="0DB0"/>
+	<advance width="590"/>
 	<outline>
 		<component base="da-sinhala"/>
 	</outline>

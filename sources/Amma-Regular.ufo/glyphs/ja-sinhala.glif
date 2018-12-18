@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ja-sinhala" format="2">
-	<advance width="869"/>
 	<unicode hex="0DA2"/>
+	<advance width="869"/>
 	<outline>
 		<contour>
 			<point x="563" y="147" type="line"/>

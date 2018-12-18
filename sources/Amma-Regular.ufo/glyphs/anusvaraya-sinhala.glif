@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anusvaraya-sinhala" format="2">
-	<advance width="481"/>
 	<unicode hex="0D82"/>
+	<advance width="481"/>
 	<outline>
 		<contour>
 			<point x="239" y="67" type="curve" smooth="yes"/>

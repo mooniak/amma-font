@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyja-sinhala" format="2">
-	<advance width="1006"/>
 	<unicode hex="0DA6"/>
+	<advance width="1006"/>
 	<outline>
 		<contour>
 			<point x="45" y="253" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehundred-tamil" format="2">
-	<advance width="684"/>
 	<unicode hex="0BF1"/>
+	<advance width="684"/>
 	<outline>
 		<contour>
 			<point x="89" y="369" type="line" smooth="yes"/>

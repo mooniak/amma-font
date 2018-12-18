@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dottedCircle" format="2">
-	<advance width="637"/>
 	<unicode hex="25CC"/>
+	<advance width="637"/>
 	<outline>
 		<contour>
 			<point x="318" y="484" type="curve" smooth="yes"/>
