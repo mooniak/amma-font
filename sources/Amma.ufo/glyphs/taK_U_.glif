@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taKU" format="1">
+  <advance width="1278"/>
+  <outline>
+    <contour>
+      <point x="1238" y="-80" type="curve" smooth="yes"/>
+      <point x="1238" y="-342"/>
+      <point x="892" y="-367"/>
+      <point x="600" y="-367" type="curve" smooth="yes"/>
+      <point x="238" y="-367"/>
+      <point x="42" y="-23"/>
+      <point x="40" y="254" type="curve" smooth="yes"/>
+      <point x="39" y="426"/>
+      <point x="106" y="630"/>
+      <point x="179" y="737" type="curve"/>
+      <point x="267" y="691" type="line"/>
+      <point x="198" y="587"/>
+      <point x="143" y="409"/>
+      <point x="144" y="254" type="curve" smooth="yes"/>
+      <point x="146" y="11"/>
+      <point x="326" y="-269"/>
+      <point x="600" y="-269" type="curve" smooth="yes"/>
+      <point x="817" y="-269"/>
+      <point x="1139" y="-282"/>
+      <point x="1139" y="-80" type="curve" smooth="yes"/>
+      <point x="1139" y="124"/>
+      <point x="1162" y="220"/>
+      <point x="1047" y="220" type="curve"/>
+      <point x="1052" y="348" type="line"/>
+      <point x="1189" y="348"/>
+      <point x="1238" y="411"/>
+    </contour>
+    <component base="sinKa" xOffset="185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-05 08:51:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

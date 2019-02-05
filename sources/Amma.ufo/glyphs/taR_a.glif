@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taRa" format="1">
+  <advance width="450"/>
+  <unicode hex="0BB0"/>
+  <outline>
+    <contour>
+      <point x="63" y="-165" type="line"/>
+      <point x="46" y="-142" type="line"/>
+      <point x="257" y="10" type="line"/>
+      <point x="323" y="1" type="line"/>
+    </contour>
+    <component base="taMatraAa"/>
+    <contour>
+      <point x="274" y="446" type="move" name="tm_halant"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-05 09:14:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

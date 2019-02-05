@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taEe" format="1">
+  <advance width="695"/>
+  <unicode hex="0B8F"/>
+  <outline>
+    <contour>
+      <point x="505" y="9" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="277" y="-141" type="line"/>
+      <point x="260" y="-117" type="line"/>
+    </contour>
+    <component base="taE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-05 09:14:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

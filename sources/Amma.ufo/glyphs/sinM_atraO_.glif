@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinMatraO" format="1">
+  <advance width="698"/>
+  <unicode hex="0DDC"/>
+  <outline>
+    <component base="sinMatraE"/>
+    <component base="sinMatraAa" xOffset="440"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-05 09:16:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

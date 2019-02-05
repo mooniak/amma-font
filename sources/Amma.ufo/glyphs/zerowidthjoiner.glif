@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerowidthjoiner" format="1">
+  <advance width="0"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="40" y="3" type="line"/>
+      <point x="-41" y="3" type="line"/>
+      <point x="-41" y="623" type="line"/>
+      <point x="40" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="713" type="line"/>
+      <point x="-130" y="489" type="line"/>
+      <point x="-182" y="551" type="line"/>
+      <point x="130" y="773" type="line"/>
+    </contour>
+    <contour>
+      <point x="-130" y="773" type="line"/>
+      <point x="180" y="551" type="line"/>
+      <point x="135" y="489" type="line"/>
+      <point x="-180" y="713" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-05 09:15:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>
