@@ -4,7 +4,7 @@
 ## සිංහල හා දෙමල අක්ෂර දෙමුහුම
 ## த் எழுத்துரு இடையேயான தொடர்புகள்
 
-A typeface combining the Sinhala and Tamil letters. This project is not about solving the political problems in the country, but it is to explore the different graphical aspects of cultural boundaries between ethnicities in Sri Lanka and an attempt to dissolve these boundaries in a selected context. This project is not about solving the political problems in the country, but to explore the different graphical aspects of cultural boundaries between ethnicities in Sri Lanka and an attempt to dissolve these boundaries in a selected context.
+A typeface combining the Sinhala and Tamil letters. This project is not about solving the political problems in the country, but it is to explore the different graphical aspects of cultural boundaries between ethnicities in Sri Lanka and an attempt to dissolve these boundaries in a selected context.
 
 සහජීවනය අපහසු නැත. වෙනස්කම් වෙනුවට සමානකම් දකින්නට හැකිනම් එදිනට අප දෙදෙනාටම එකම ලෝකයක ජීවත් වන්නට හැකිවනු ඇත. මම ඔබේ ලොවේත් ඔබ මගේ ලොවෙත් අනෙකෙකු කලේ අප ගොඩනැගූ සංස්කෘතිය මිස ලේ, මස්, ඇට නහර නොවේ. අපහසු වන්නේ සහජීවනය නොව , ඒ බෙදා වෙන්කරන වෙනස්කම් වල සැබෑ ස්වරූපය හඳුනා ගැනීමයි.
 
@@ -24,7 +24,7 @@ Project was initiated by [Pathum Egodawatta](http://pathumego.org) in February 2
 - Language Advisory: N.K. Ashokbharan, Amreeya Mowlana, Arunothayan Ravindran
 
 #### Thanks
-- Website support: Kasun Indie
+- Website support: Kasun Indi
 - Various: Sajaan Peries, Alain Parizeau, Aaron Glasson, Sumudu Hemachandra, Diana George, Asele Jayarathne, Prabhath Sirisena, Natasha Perera
 
 #### License
