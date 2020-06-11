@@ -1,59 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="taTtIi" format="1">
-  <advance width="774"/>
-  <outline>
-    <contour>
-      <point x="769" y="0" type="line"/>
-      <point x="70" y="0" type="line"/>
-      <point x="70" y="400" type="line"/>
-      <point x="145" y="400" type="line"/>
-      <point x="145" y="30" type="line"/>
-      <point x="424" y="30" type="line"/>
-      <point x="370" y="57"/>
-      <point x="329" y="119"/>
-      <point x="329" y="197" type="curve" smooth="yes"/>
-      <point x="329" y="294"/>
-      <point x="415" y="370"/>
-      <point x="513" y="370" type="curve" smooth="yes"/>
-      <point x="607" y="370"/>
-      <point x="673" y="337"/>
-      <point x="673" y="248" type="curve" smooth="yes"/>
-      <point x="673" y="191"/>
-      <point x="627" y="158"/>
-      <point x="568" y="158" type="curve" smooth="yes"/>
-      <point x="513" y="158"/>
-      <point x="477" y="197"/>
-      <point x="477" y="253" type="curve" smooth="yes"/>
-      <point x="477" y="286"/>
-      <point x="488" y="312"/>
-      <point x="505" y="331" type="curve"/>
-      <point x="432" y="325"/>
-      <point x="359" y="271"/>
-      <point x="359" y="195" type="curve" smooth="yes"/>
-      <point x="359" y="117"/>
-      <point x="414" y="59"/>
-      <point x="470" y="30" type="curve"/>
-      <point x="769" y="30" type="line"/>
-    </contour>
-    <contour>
-      <point x="507" y="286"/>
-      <point x="507" y="254" type="curve" smooth="yes"/>
-      <point x="507" y="223"/>
-      <point x="524" y="188"/>
-      <point x="553" y="188" type="curve" smooth="yes"/>
-      <point x="582" y="188"/>
-      <point x="598" y="222"/>
-      <point x="598" y="253" type="curve" smooth="yes"/>
-      <point x="598" y="284"/>
-      <point x="582" y="323"/>
-      <point x="554" y="323" type="curve" smooth="yes"/>
-      <point x="524" y="323"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-09 08:55:18 +0000</string>
-    </dict>
-  </lib>
+<glyph name="taTtIi" format="2">
+	<advance width="774"/>
+	<outline>
+		<contour>
+			<point x="769" y="0" type="line"/>
+			<point x="70" y="0" type="line"/>
+			<point x="70" y="400" type="line"/>
+			<point x="145" y="400" type="line"/>
+			<point x="145" y="30" type="line"/>
+			<point x="424" y="30" type="line"/>
+			<point x="370" y="57"/>
+			<point x="329" y="119"/>
+			<point x="329" y="197" type="curve" smooth="yes"/>
+			<point x="329" y="294"/>
+			<point x="415" y="370"/>
+			<point x="513" y="370" type="curve" smooth="yes"/>
+			<point x="607" y="370"/>
+			<point x="673" y="337"/>
+			<point x="673" y="248" type="curve" smooth="yes"/>
+			<point x="673" y="191"/>
+			<point x="627" y="158"/>
+			<point x="568" y="158" type="curve" smooth="yes"/>
+			<point x="513" y="158"/>
+			<point x="477" y="197"/>
+			<point x="477" y="253" type="curve" smooth="yes"/>
+			<point x="477" y="286"/>
+			<point x="488" y="312"/>
+			<point x="505" y="331" type="curve"/>
+			<point x="432" y="325"/>
+			<point x="359" y="271"/>
+			<point x="359" y="195" type="curve" smooth="yes"/>
+			<point x="359" y="117"/>
+			<point x="414" y="59"/>
+			<point x="470" y="30" type="curve"/>
+			<point x="769" y="30" type="line"/>
+		</contour>
+		<contour>
+			<point x="507" y="286"/>
+			<point x="507" y="254" type="curve" smooth="yes"/>
+			<point x="507" y="223"/>
+			<point x="524" y="188"/>
+			<point x="553" y="188" type="curve" smooth="yes"/>
+			<point x="582" y="188"/>
+			<point x="598" y="222"/>
+			<point x="598" y="253" type="curve" smooth="yes"/>
+			<point x="598" y="284"/>
+			<point x="582" y="323"/>
+			<point x="554" y="323" type="curve" smooth="yes"/>
+			<point x="524" y="323"/>
+		</contour>
+	</outline>
 </glyph>

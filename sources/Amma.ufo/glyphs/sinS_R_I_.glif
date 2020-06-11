@@ -1,35 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinSRI" format="1">
-  <advance width="661"/>
-  <outline>
-    <contour>
-      <point x="109" y="-149"/>
-      <point x="72" y="-43" type="curve"/>
-      <point x="99" y="-43" type="line"/>
-      <point x="134" y="-116"/>
-      <point x="206" y="-153"/>
-      <point x="311" y="-153" type="curve" smooth="yes"/>
-      <point x="455" y="-153"/>
-      <point x="574" y="-88"/>
-      <point x="574" y="49" type="curve" smooth="yes"/>
-      <point x="574" y="70"/>
-      <point x="569" y="91"/>
-      <point x="562" y="100" type="curve"/>
-      <point x="574" y="130" type="line"/>
-      <point x="593" y="104"/>
-      <point x="602" y="73"/>
-      <point x="602" y="37" type="curve" smooth="yes"/>
-      <point x="602" y="-121"/>
-      <point x="472" y="-214"/>
-      <point x="327" y="-214" type="curve" smooth="yes"/>
-      <point x="193" y="-214"/>
-    </contour>
-    <component base="sinSI"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-22 12:17:34 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinSRI" format="2">
+	<advance width="661"/>
+	<outline>
+		<contour>
+			<point x="109" y="-149"/>
+			<point x="72" y="-43" type="curve"/>
+			<point x="99" y="-43" type="line"/>
+			<point x="134" y="-116"/>
+			<point x="206" y="-153"/>
+			<point x="311" y="-153" type="curve" smooth="yes"/>
+			<point x="455" y="-153"/>
+			<point x="574" y="-88"/>
+			<point x="574" y="49" type="curve" smooth="yes"/>
+			<point x="574" y="70"/>
+			<point x="569" y="91"/>
+			<point x="562" y="100" type="curve"/>
+			<point x="574" y="130" type="line"/>
+			<point x="593" y="104"/>
+			<point x="602" y="73"/>
+			<point x="602" y="37" type="curve" smooth="yes"/>
+			<point x="602" y="-121"/>
+			<point x="472" y="-214"/>
+			<point x="327" y="-214" type="curve" smooth="yes"/>
+			<point x="193" y="-214"/>
+		</contour>
+		<component base="sinSI"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-214</integer>
+						<key>width</key>
+						<integer>61</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-17</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>332</integer>
+						<key>width</key>
+						<integer>103</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>396</integer>
+						<key>width</key>
+						<integer>22</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>507</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>584</integer>
+						<key>width</key>
+						<integer>71</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>19</integer>
+						<key>width</key>
+						<integer>109</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>68</integer>
+						<key>width</key>
+						<integer>33</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>291</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>439</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>488</integer>
+						<key>width</key>
+						<integer>33</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>574</integer>
+						<key>width</key>
+						<integer>28</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>706</integer>
+						<key>width</key>
+						<integer>109</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

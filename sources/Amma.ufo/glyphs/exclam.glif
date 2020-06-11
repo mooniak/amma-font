@@ -1,31 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclam" format="1">
-  <advance width="247"/>
-  <unicode hex="0021"/>
-  <outline>
-    <contour>
-      <point x="166" y="191" type="line"/>
-      <point x="182" y="708" type="line"/>
-      <point x="62" y="708" type="line"/>
-      <point x="78" y="191" type="line"/>
-    </contour>
-    <component base="period" xOffset="8"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>period</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-02-05 09:15:45 +0000</string>
-    </dict>
-  </lib>
+<glyph name="exclam" format="2">
+	<advance width="247"/>
+	<unicode hex="0021"/>
+	<outline>
+		<contour>
+			<point x="166" y="191" type="line"/>
+			<point x="182" y="708" type="line"/>
+			<point x="62" y="708" type="line"/>
+			<point x="78" y="191" type="line"/>
+		</contour>
+		<component base="period" xOffset="8"/>
+	</outline>
 </glyph>

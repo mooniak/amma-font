@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ee-tamil" format="2">
+	<advance width="1201"/>
+	<outline>
+		<contour>
+			<point x="565" y="9" type="line"/>
+			<point x="660" y="0" type="line"/>
+			<point x="347" y="-181" type="line"/>
+			<point x="320" y="-120" type="line"/>
+		</contour>
+		<component base="ee-sinhala"/>
+	</outline>
+</glyph>

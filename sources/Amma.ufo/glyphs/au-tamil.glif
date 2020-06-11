@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="au-tamil" format="2">
+	<advance width="1831"/>
+	<unicode hex="0B94"/>
+	<anchor x="1723" y="560" name="MatraIi"/>
+	<anchor x="943" y="228" name="MatraAi.alt"/>
+	<anchor x="1709" y="560" name="MatraI.alt2"/>
+	<anchor x="1359" y="669" name="tm_halant"/>
+	<outline>
+		<contour>
+			<point x="1249" y="173" type="curve" smooth="yes"/>
+			<point x="1249" y="55"/>
+			<point x="1193" y="-23"/>
+			<point x="1101" y="-23" type="curve" smooth="yes"/>
+			<point x="1000" y="-23"/>
+			<point x="942" y="89"/>
+			<point x="942" y="243" type="curve" smooth="yes"/>
+			<point x="942" y="445"/>
+			<point x="1029" y="572"/>
+			<point x="1177" y="572" type="curve" smooth="yes"/>
+			<point x="1302" y="572"/>
+			<point x="1394" y="450"/>
+			<point x="1394" y="248" type="curve"/>
+			<point x="1324" y="264" type="line"/>
+			<point x="1324" y="404"/>
+			<point x="1267" y="492"/>
+			<point x="1178" y="492" type="curve" smooth="yes"/>
+			<point x="1077" y="492"/>
+			<point x="1026" y="386"/>
+			<point x="1026" y="250" type="curve" smooth="yes"/>
+			<point x="1026" y="156"/>
+			<point x="1044" y="59"/>
+			<point x="1102" y="59" type="curve" smooth="yes"/>
+			<point x="1152" y="59"/>
+			<point x="1167" y="123"/>
+			<point x="1167" y="176" type="curve" smooth="yes"/>
+			<point x="1167" y="252"/>
+			<point x="1137" y="291"/>
+			<point x="1103" y="291" type="curve" smooth="yes"/>
+			<point x="1053" y="291"/>
+			<point x="1028" y="235"/>
+			<point x="1033" y="161" type="curve"/>
+			<point x="981" y="188" type="line"/>
+			<point x="981" y="268"/>
+			<point x="1030" y="360"/>
+			<point x="1110" y="360" type="curve" smooth="yes"/>
+			<point x="1183" y="360"/>
+			<point x="1249" y="295"/>
+		</contour>
+		<contour>
+			<point x="1413" y="1" type="line"/>
+			<point x="1324" y="1" type="line"/>
+			<point x="1324" y="456" type="line"/>
+			<point x="1335" y="464" type="line"/>
+			<point x="1335" y="560" type="line"/>
+			<point x="1781" y="560" type="line"/>
+			<point x="1781" y="478" type="line"/>
+			<point x="1668" y="478" type="line"/>
+			<point x="1668" y="1" type="line"/>
+			<point x="1580" y="1" type="line"/>
+			<point x="1580" y="478" type="line"/>
+			<point x="1413" y="478" type="line"/>
+		</contour>
+		<component base="o-sinhala"/>
+	</outline>
+</glyph>

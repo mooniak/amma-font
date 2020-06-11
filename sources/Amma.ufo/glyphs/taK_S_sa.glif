@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="taKSsa" format="1">
-  <advance width="600"/>
-  <outline>
-    <component base="sinKa.half"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-02-05 09:06:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="taKSsa" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="sinKa.half"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-06-07 01:46:17 +0000</string>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quoteright" format="1">
-  <advance width="210"/>
-  <unicode hex="2019"/>
-  <outline>
-    <component base="comma" xScale="0.966" yScale="0.966" xOffset="1" yOffset="595"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>comma</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-02-05 09:15:45 +0000</string>
-    </dict>
-  </lib>
+<glyph name="quoteright" format="2">
+	<advance width="210"/>
+	<unicode hex="2019"/>
+	<outline>
+		<component base="comma" xScale="0.966" yScale="0.966" xOffset="1" yOffset="595"/>
+	</outline>
 </glyph>

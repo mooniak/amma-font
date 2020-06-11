@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aaMatra-tamil" format="2">
+	<advance width="525"/>
+	<unicode hex="0BBE"/>
+	<outline>
+		<contour>
+			<point x="143" y="1" type="line"/>
+			<point x="55" y="1" type="line"/>
+			<point x="55" y="560" type="line"/>
+			<point x="525" y="560" type="line"/>
+			<point x="525" y="478" type="line"/>
+			<point x="413" y="478" type="line"/>
+			<point x="413" y="1" type="line"/>
+			<point x="323" y="1" type="line"/>
+			<point x="324" y="478" type="line"/>
+			<point x="143" y="478" type="line"/>
+		</contour>
+	</outline>
+</glyph>

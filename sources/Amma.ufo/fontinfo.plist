@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
@@ -12,14 +12,27 @@
 	<integer>-254</integer>
 	<key>familyName</key>
 	<string>Amma</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>500</integer>
+			<key>y</key>
+			<integer>874</integer>
+		</dict>
+	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2019/02/03 21:40:12</string>
+	<string>2020/04/30 13:29:17</string>
 	<key>openTypeHheaAscender</key>
 	<integer>860</integer>
 	<key>openTypeHheaDescender</key>
 	<integer>-348</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
-	<string>Pathum Egodawatta</string>
+	<string>Pathum Egodawatta, Sanjaya Ekneligoda</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://www.mooniak.com/</string>
 	<key>openTypeNameManufacturer</key>
@@ -30,9 +43,15 @@
 	<string>Amma</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeOS2Type</key>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.100</string>
+	<key>openTypeOS2FamilyClass</key>
 	<array>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
+	<key>openTypeOS2Type</key>
+	<array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>860</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -62,6 +81,8 @@
 	</array>
 	<key>postscriptFontName</key>
 	<string>Amma-Regular</string>
+	<key>postscriptFullName</key>
+	<string>Amma Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-270</integer>
@@ -90,10 +111,8 @@
 		<integer>71</integer>
 		<integer>80</integer>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-37</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>24</integer>
+	<key>styleMapFamilyName</key>
+	<string>Amma Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

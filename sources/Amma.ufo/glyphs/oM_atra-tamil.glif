@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oMatra-tamil" format="2">
+	<advance width="1189"/>
+	<unicode hex="0BCA"/>
+	<outline>
+		<component base="eMatra-tamil" xOffset="10"/>
+		<component base="aaMatra-tamil" xOffset="618"/>
+	</outline>
+</glyph>

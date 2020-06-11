@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="taKUu" format="2">
+	<advance width="844"/>
+	<outline>
+		<contour>
+			<point x="357" y="185" type="line"/>
+			<point x="357" y="215" type="line"/>
+			<point x="492" y="215" type="line" smooth="yes"/>
+			<point x="515" y="215"/>
+			<point x="534" y="198"/>
+			<point x="534" y="176" type="curve" smooth="yes"/>
+			<point x="534" y="170"/>
+			<point x="534" y="164"/>
+			<point x="534" y="158" type="curve"/>
+			<point x="547" y="191"/>
+			<point x="587" y="215"/>
+			<point x="632" y="215" type="curve" smooth="yes"/>
+			<point x="692" y="215"/>
+			<point x="750" y="172"/>
+			<point x="750" y="114" type="curve" smooth="yes"/>
+			<point x="750" y="77"/>
+			<point x="736" y="46"/>
+			<point x="716" y="28" type="curve"/>
+			<point x="865" y="28" type="line"/>
+			<point x="865" y="0" type="line"/>
+			<point x="611" y="0" type="line"/>
+			<point x="611" y="29" type="line"/>
+			<point x="645" y="39"/>
+			<point x="675" y="70"/>
+			<point x="675" y="113" type="curve" smooth="yes"/>
+			<point x="675" y="151"/>
+			<point x="649" y="185"/>
+			<point x="612" y="185" type="curve" smooth="yes"/>
+			<point x="584" y="185"/>
+			<point x="534" y="146"/>
+			<point x="534" y="113" type="curve"/>
+			<point x="534" y="0" type="line"/>
+			<point x="463" y="0" type="line"/>
+			<point x="463" y="155" type="line" smooth="yes"/>
+			<point x="463" y="171"/>
+			<point x="449" y="185"/>
+			<point x="433" y="185" type="curve" smooth="yes"/>
+		</contour>
+		<component base="ca-tamil"/>
+	</outline>
+</glyph>

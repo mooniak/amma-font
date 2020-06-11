@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="taMatraU.alt1" format="1">
-  <advance width="0"/>
-  <outline>
-    <contour>
-      <point x="-57" y="-153" type="line"/>
-      <point x="-147" y="-153" type="line"/>
-      <point x="-147" y="33" type="line"/>
-      <point x="-57" y="33" type="line"/>
-    </contour>
-    <contour>
-      <point x="-147" y="33" type="move" name="_MatraU.alt1"/>
-    </contour>
-    <contour>
-      <point x="-147" y="33" type="move" name="anchor"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-02-05 09:16:55 +0000</string>
-    </dict>
-  </lib>
+<glyph name="taMatraU.alt1" format="2">
+	<advance width="0"/>
+	<anchor x="-147" y="33" name="_MatraU.alt1"/>
+	<anchor x="-147" y="33" name="anchor"/>
+	<outline>
+		<contour>
+			<point x="-57" y="-153" type="line"/>
+			<point x="-147" y="-153" type="line"/>
+			<point x="-147" y="33" type="line"/>
+			<point x="-57" y="33" type="line"/>
+		</contour>
+	</outline>
 </glyph>

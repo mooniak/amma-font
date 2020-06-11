@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dda-sinhala" format="2">
+	<advance width="997"/>
+	<unicode hex="0DA9"/>
+	<anchor x="52" y="0" name="_cursive"/>
+	<outline>
+		<contour>
+			<point x="440" y="553" type="curve" smooth="yes"/>
+			<point x="517" y="553"/>
+			<point x="592" y="496"/>
+			<point x="592" y="411" type="curve" smooth="yes"/>
+			<point x="592" y="351"/>
+			<point x="551" y="297"/>
+			<point x="488" y="281" type="curve" smooth="yes"/>
+			<point x="472" y="277"/>
+			<point x="449" y="273"/>
+			<point x="418" y="273" type="curve" smooth="yes"/>
+			<point x="262" y="273" type="line"/>
+			<point x="251" y="254"/>
+			<point x="247" y="236"/>
+			<point x="247" y="220" type="curve" smooth="yes"/>
+			<point x="247" y="137"/>
+			<point x="303" y="89"/>
+			<point x="365" y="89" type="curve" smooth="yes"/>
+			<point x="420" y="89"/>
+			<point x="454" y="116"/>
+			<point x="477" y="159" type="curve"/>
+			<point x="568" y="159" type="line"/>
+			<point x="586" y="124"/>
+			<point x="628" y="90"/>
+			<point x="681" y="90" type="curve" smooth="yes"/>
+			<point x="796" y="90"/>
+			<point x="835" y="233"/>
+			<point x="835" y="358" type="curve" smooth="yes"/>
+			<point x="835" y="579"/>
+			<point x="705" y="731"/>
+			<point x="494" y="731" type="curve" smooth="yes"/>
+			<point x="353" y="731"/>
+			<point x="247" y="654"/>
+			<point x="188" y="576" type="curve"/>
+			<point x="104" y="635" type="line"/>
+			<point x="168" y="726"/>
+			<point x="327" y="836"/>
+			<point x="472" y="836" type="curve" smooth="yes"/>
+			<point x="772" y="836"/>
+			<point x="937" y="643"/>
+			<point x="937" y="348" type="curve" smooth="yes"/>
+			<point x="937" y="167"/>
+			<point x="859" y="-15"/>
+			<point x="680" y="-15" type="curve" smooth="yes"/>
+			<point x="618" y="-15"/>
+			<point x="563" y="15"/>
+			<point x="525" y="48" type="curve"/>
+			<point x="479" y="5"/>
+			<point x="427" y="-15"/>
+			<point x="369" y="-15" type="curve" smooth="yes"/>
+			<point x="248" y="-15"/>
+			<point x="142" y="78"/>
+			<point x="142" y="207" type="curve" smooth="yes"/>
+			<point x="142" y="228"/>
+			<point x="146" y="251"/>
+			<point x="153" y="274" type="curve"/>
+			<point x="40" y="274" type="line"/>
+			<point x="41" y="377" type="line"/>
+			<point x="415" y="377" type="line" smooth="yes"/>
+			<point x="464" y="377"/>
+			<point x="488" y="387"/>
+			<point x="488" y="409" type="curve" smooth="yes"/>
+			<point x="488" y="436"/>
+			<point x="467" y="449"/>
+			<point x="436" y="449" type="curve" smooth="yes"/>
+			<point x="415" y="449"/>
+			<point x="398" y="440"/>
+			<point x="384" y="423" type="curve"/>
+			<point x="304" y="490" type="line"/>
+			<point x="338" y="530"/>
+			<point x="389" y="553"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-18</integer>
+						<key>width</key>
+						<integer>105</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>271</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>447</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>739</integer>
+						<key>width</key>
+						<integer>105</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>132</integer>
+						<key>width</key>
+						<integer>105</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>478</integer>
+						<key>width</key>
+						<integer>104</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>825</integer>
+						<key>width</key>
+						<integer>103</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-06-02 09:28:08 +0000</string>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
+</glyph>

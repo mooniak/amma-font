@@ -1,39 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNng.halant" format="1">
-  <advance width="731"/>
-  <outline>
-    <contour>
-      <point x="566" y="361" type="line"/>
-      <point x="540" y="378" type="line"/>
-      <point x="540" y="665" type="line"/>
-      <point x="593" y="624"/>
-      <point x="687" y="619"/>
-      <point x="687" y="529" type="curve" smooth="yes"/>
-      <point x="687" y="486"/>
-      <point x="652" y="457"/>
-      <point x="610" y="457" type="curve" smooth="yes"/>
-      <point x="595" y="457"/>
-      <point x="581" y="460"/>
-      <point x="566" y="467" type="curve"/>
-    </contour>
-    <contour>
-      <point x="566" y="623" type="curve"/>
-      <point x="566" y="491" type="line"/>
-      <point x="575" y="486"/>
-      <point x="586" y="484"/>
-      <point x="599" y="484" type="curve" smooth="yes"/>
-      <point x="636" y="484"/>
-      <point x="650" y="509"/>
-      <point x="650" y="532" type="curve" smooth="yes"/>
-      <point x="650" y="573"/>
-      <point x="612" y="593"/>
-    </contour>
-    <component base="sinNnga"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-22 12:17:34 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinNng.halant" format="2">
+	<advance width="731"/>
+	<outline>
+		<contour>
+			<point x="566" y="361" type="line"/>
+			<point x="540" y="378" type="line"/>
+			<point x="540" y="665" type="line"/>
+			<point x="593" y="624"/>
+			<point x="687" y="619"/>
+			<point x="687" y="529" type="curve" smooth="yes"/>
+			<point x="687" y="486"/>
+			<point x="652" y="457"/>
+			<point x="610" y="457" type="curve" smooth="yes"/>
+			<point x="595" y="457"/>
+			<point x="581" y="460"/>
+			<point x="566" y="467" type="curve"/>
+		</contour>
+		<contour>
+			<point x="566" y="623" type="curve"/>
+			<point x="566" y="491" type="line"/>
+			<point x="575" y="486"/>
+			<point x="586" y="484"/>
+			<point x="599" y="484" type="curve" smooth="yes"/>
+			<point x="636" y="484"/>
+			<point x="650" y="509"/>
+			<point x="650" y="532" type="curve" smooth="yes"/>
+			<point x="650" y="573"/>
+			<point x="612" y="593"/>
+		</contour>
+		<component base="nnga-sinhala"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-4</integer>
+						<key>width</key>
+						<integer>103</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>-3</integer>
+						<key>width</key>
+						<integer>85</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>457</integer>
+						<key>width</key>
+						<integer>27</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>533</integer>
+						<key>width</key>
+						<integer>102</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>49</integer>
+						<key>width</key>
+						<integer>90</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>540</integer>
+						<key>width</key>
+						<integer>26</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>650</integer>
+						<key>width</key>
+						<integer>37</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>903</integer>
+						<key>width</key>
+						<integer>92</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>
